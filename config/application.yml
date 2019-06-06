@@ -1,7 +1,0 @@
-AWS_ACCESS_KEY: "xxxxxxxxxxxxxxxxxxx"
-AWS_SECRET_KEY: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-AWS_BUCKET: "greg-knudsen-nomster"
-AWS_REGION: "us-east-2"
-
-PUBLISHABLE_KEY: 'pk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxx'
-SECRET_KEY: 'sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
