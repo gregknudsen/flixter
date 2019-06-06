@@ -3,5 +3,5 @@ AWS_SECRET_KEY: "OojBdnTy/gTzR+B530tG+mW3DvlCqfv1Wz5fBc0i"
 AWS_BUCKET: "greg-knudsen-nomster"
 AWS_REGION: "us-east-2"
 
-PUBLISHABLE_KEY: 'pk_test_a4HhpkRfs8Amrqz4OxGN4Lo600O0dVVLGe'
-SECRET_KEY: 'sk_test_Qi4qshoMlqiMiqWsdmVSTcts00XYikpr9K'
+PUBLISHABLE_KEY: 'pk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxx'
+SECRET_KEY: 'sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
